@@ -1,0 +1,16 @@
+To run .sh files you have to install VirtualBox and in their ubuntu iso file.
+
+To run in terminals write command Desktop/filename.sh
+
+	Access Permission:
+chmod a+rwe Desktop/filename.sh
+	OR
+chmod +x Desktop/filename.sh
+
+	Remove Permission:
+chmod a-rwe Desktop/filename.sh
+OR
+chmod -x Desktop/filename.sh
+
+	Clear the screen
+type clear then press enter
